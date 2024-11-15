@@ -1,6 +1,6 @@
 ![I am zehanCoder](https://github.com/zehancoder)
 
-<h1 align="center">Hi 👋, I'm JH ZEHAN(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm JH ZEHAN</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 <h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
